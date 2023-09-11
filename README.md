@@ -14,6 +14,7 @@ This repository documents my experience and approach to completing a Crawling RP
 - [My Approach](#my-approach)
 - [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
+- [Requirements to Run the Script](#requirements-to-run-the-script)
 
 ## Introduction
 
@@ -49,3 +50,14 @@ Feel free to explore the code and adapt it to your needs. You can clone this rep
 I would like to thank the company for providing me with the opportunity to attempt this assessment. Despite the challenges I faced, it was a valuable learning experience.
 
 If you have any questions or suggestions, please don't hesitate to reach out.
+
+## Requirements to Run the Script
+
+To run the script on your local system, you will need the following:
+
+- Python 3.8 or above
+- Jupyter Notebook
+- Chrome browser
+- Python libraries: pandas, selenium, os, json, pathlib
+- Visual Studio Code (recommended as the development environment)
+- Use pip to install the required libraries
