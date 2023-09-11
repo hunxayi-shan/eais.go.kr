@@ -41,16 +41,6 @@ I designed a Python script to address the assessment task, which involved handli
 
 3. **PDF Generation:** I iterated over the list of addresses, saving a PDF file for each address as per the assessment requirements saved it to local downloads directory of the project.
 
-## Usage
-
-Feel free to explore the code and adapt it to your needs. You can clone this repository and run the Python script to automate web scraping and PDF generation based on your specific requirements.
-
-## Acknowledgements
-
-I would like to thank the company for providing me with the opportunity to attempt this assessment. Despite the challenges I faced, it was a valuable learning experience.
-
-If you have any questions or suggestions, please don't hesitate to reach out.
-
 ## Requirements to Run the Script
 
 To run the script on your local system, you will need the following:
@@ -61,3 +51,13 @@ To run the script on your local system, you will need the following:
 - Python libraries: pandas, selenium, os, json, pathlib
 - Visual Studio Code (recommended as the development environment)
 - Use pip to install the required libraries
+
+## Usage
+
+Feel free to explore the code and adapt it to your needs. You can clone this repository and run the Python script to automate web scraping and PDF generation based on your specific requirements.
+
+## Acknowledgements
+
+I would like to thank the company for providing me with the opportunity to attempt this assessment. Despite the challenges I faced, it was a valuable learning experience.
+
+If you have any questions or suggestions, please don't hesitate to reach out.
