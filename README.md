@@ -1,7 +1,7 @@
 # Eais [eais.go.kr]
 Issuance of Building Ledger - eais.go.kr
 
-# Recording of the execution of the script
+# Recording of the execution
 https://github.com/hunxayi-shan/eais.go.kr/assets/96914475/42557311-2acd-4fdc-912d-3d692308001f
 
 # Assessment Task - Crawling RPA
